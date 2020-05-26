@@ -1,4 +1,4 @@
-Thank you for coming to Python Bank. Here is our Data./n
+Thank you for coming to Python Bank. Here is our Data. 
  Total Months: 86
  Total Profit/Loss: 38382578
  Greatest Profit: 
